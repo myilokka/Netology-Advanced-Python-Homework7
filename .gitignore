@@ -1,0 +1,8 @@
+.idea
+__pycache__
+Include
+Lib
+Scripts
+lesson7.py
+pyvenv.cfg
+settings.ini
